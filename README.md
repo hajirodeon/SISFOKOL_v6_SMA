@@ -11,7 +11,7 @@ NB.
 
 Masih dalam pengembangan. 
 
-Menuju Rilis Bulan Akhir Pebruari 2023 ini.
+Menuju Rilis Bulan Akhir April 2023 ini.
 
 
 ---
