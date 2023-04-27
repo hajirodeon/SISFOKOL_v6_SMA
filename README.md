@@ -11,7 +11,7 @@ NB.
 
 Masih dalam pengembangan. 
 
-Menuju Rilis Menjelang Lebaran 2023 ini.
+Menuju Rilis : Awal Mei 2023 ini.
 
 
 ---
